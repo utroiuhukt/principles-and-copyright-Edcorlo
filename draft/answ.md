@@ -10,7 +10,7 @@
 
   4.Freedom to modify and improve the program.
   
-##How does the GNU Manifesto justify the ethical importance of free software?
+##How does the GNU Manifesto justify the ethical importance of free software?##
 
 When Unix stopped sharing its source code to be able to study it and other possibilities, 
 GNU's appeared as a way to maintain and create a software that kept those principles of freedom, 
@@ -23,3 +23,6 @@ By promoting free software, the GNU Project seeks to create a world where techno
 
 ##What is the difference between "open source" and "free software"?
   
+free software and open source are closely related but distinct concepts. Free software, championed by Richard Stallman and the Free Software Foundation (FSF), emphasizes ethical principles and the Four Freedoms—ensuring users have the liberty to use, study, modify, and share software. It views software freedom as a moral imperative and opposes proprietary restrictions.
+
+On the other hand, open source, promoted by the Open Source Initiative (OSI), focuses on the practical benefits of making source code available, such as fostering collaboration, innovation, and improving software quality. It adopts a more pragmatic, business-friendly approach.
