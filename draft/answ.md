@@ -2,7 +2,7 @@
 
 ## What are the "Four Freedoms" defined by the Free Software Foundation?
 
-These are the free software freedoms established in 1985 by Stallman:
+The **Four Freedoms** are the cornerstone of the free software movement, established by **Richard Stallman** and the **Free Software Foundation (FSF)** in 1985. These freedoms ensure that users have full control over the software they use, promoting ethical principles and user empowerment:
 
 1. **Freedom to run the program for any purpose.**
 2. **Freedom to study how the program works.**
